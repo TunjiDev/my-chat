@@ -34,3 +34,22 @@
   border-radius: 5px;
   border: none;
 }
+
+/* ================================= 400PX AND LOWER SCREENS =======================================*/
+.login__container {
+  padding: 50px;
+}
+
+.login__container > h1 {
+  font-size: 1.5em;
+}
+
+.login__googleBtn {
+  padding: 8px;
+  margin: 8px;
+}
+
+.login__facebookBtn {
+  padding: 8px;
+  margin: 8px;
+}
